@@ -1,0 +1,12 @@
+C:\Users\Mahmo\source\repos\Example 3-2\Example 3-2\bin\Debug\Example 3-2.exe.config
+C:\Users\Mahmo\source\repos\Example 3-2\Example 3-2\bin\Debug\Example 3-2.exe
+C:\Users\Mahmo\source\repos\Example 3-2\Example 3-2\bin\Debug\Example 3-2.pdb
+C:\Users\Mahmo\source\repos\Example 3-2\Example 3-2\bin\Debug\Example 3-2.xml
+C:\Users\Mahmo\source\repos\Example 3-2\Example 3-2\obj\Debug\Example_3_2.Form1.resources
+C:\Users\Mahmo\source\repos\Example 3-2\Example 3-2\obj\Debug\Example_3_2.Resources.resources
+C:\Users\Mahmo\source\repos\Example 3-2\Example 3-2\obj\Debug\Example 3-2.vbproj.GenerateResource.cache
+C:\Users\Mahmo\source\repos\Example 3-2\Example 3-2\obj\Debug\Example 3-2.exe
+C:\Users\Mahmo\source\repos\Example 3-2\Example 3-2\obj\Debug\Example 3-2.xml
+C:\Users\Mahmo\source\repos\Example 3-2\Example 3-2\obj\Debug\Example 3-2.pdb
+C:\Users\Mahmo\source\repos\Example 3-2\Example 3-2\obj\Debug\Example 3-2.vbprojAssemblyReference.cache
+C:\Users\Mahmo\source\repos\Example 3-2\Example 3-2\obj\Debug\Example 3-2.vbproj.CoreCompileInputs.cache
