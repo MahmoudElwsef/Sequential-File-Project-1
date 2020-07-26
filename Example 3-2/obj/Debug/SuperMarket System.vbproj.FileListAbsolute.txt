@@ -1,0 +1,12 @@
+E:\Repos\1-Small Supermarket system using Sequential Files\Example 3-2\bin\Debug\Example 3-2.exe.config
+E:\Repos\1-Small Supermarket system using Sequential Files\Example 3-2\bin\Debug\Example 3-2.exe
+E:\Repos\1-Small Supermarket system using Sequential Files\Example 3-2\bin\Debug\Example 3-2.pdb
+E:\Repos\1-Small Supermarket system using Sequential Files\Example 3-2\bin\Debug\Example 3-2.xml
+E:\Repos\1-Small Supermarket system using Sequential Files\Example 3-2\obj\Debug\SuperMarket System.vbprojAssemblyReference.cache
+E:\Repos\1-Small Supermarket system using Sequential Files\Example 3-2\obj\Debug\Example_3_2.Form1.resources
+E:\Repos\1-Small Supermarket system using Sequential Files\Example 3-2\obj\Debug\Example_3_2.Resources.resources
+E:\Repos\1-Small Supermarket system using Sequential Files\Example 3-2\obj\Debug\SuperMarket System.vbproj.GenerateResource.cache
+E:\Repos\1-Small Supermarket system using Sequential Files\Example 3-2\obj\Debug\SuperMarket System.vbproj.CoreCompileInputs.cache
+E:\Repos\1-Small Supermarket system using Sequential Files\Example 3-2\obj\Debug\Example 3-2.exe
+E:\Repos\1-Small Supermarket system using Sequential Files\Example 3-2\obj\Debug\Example 3-2.xml
+E:\Repos\1-Small Supermarket system using Sequential Files\Example 3-2\obj\Debug\Example 3-2.pdb

@@ -1,8 +1,4 @@
-﻿Imports System.IO
-Imports System.IO.IOException
-
-Public Class Form1
-    Inherits System.Windows.Forms.Form
+﻿Public Class Form1
 
     'Declare All Variables in Program
     Dim position, num, unit, money_now, sale_price, total_price As Integer
@@ -79,16 +75,6 @@ Public Class Form1
 
     End Sub
 
-    'Exit Button
-    Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
-        End
-    End Sub
-
-    'View Button
-    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        view()
-    End Sub
-
     'Add Button
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
 
@@ -108,6 +94,11 @@ Public Class Form1
         MsgBox("تم حفظ الصنف بنجاح")
         clear()
 
+    End Sub
+
+    'View Button
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        view()
     End Sub
 
     'Edit Button
@@ -190,6 +181,11 @@ Public Class Form1
         Rename("YY.txt", "XX.txt")
         clear()
 
+    End Sub
+
+    'Exit Button
+    Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
+        End
     End Sub
 
     'استحدمنا حدث آخر لزرار اضافه عنصر جديد علشان بمجرد م اضغط عليه واضيف عنصر جديدالتعديل يظهر ف الليست بوكس
